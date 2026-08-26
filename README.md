@@ -1,4 +1,4 @@
-# Hi, I'm Sumayang Shan 
+# Hi, I'm Sumayang Shan Ashley
 # I am currenntly studying in ICCT colleges Bachelor science in Computer Engineering 
 
 ### I build thoughtful digital experiences.
