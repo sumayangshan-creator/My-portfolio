@@ -5,7 +5,7 @@
 
 I am a student who are still learning and having real experiences such as being game designer and architect. I also became a game Tester in our school group project. 
 I as student believing that everything is possible with teamwork and having a cooperation. 
-I am still developing this github portfolio of mine thank you for 
+I am still developing this github portfolio of mine thank you
 
 [View my work](#featured-work) · [Let's connect](#connect) · [Explore my toolbox](#toolbox)
 
