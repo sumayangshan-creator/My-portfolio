@@ -3,7 +3,9 @@
 
 ### I build thoughtful digital experiences.
 
-I'm a curious creator who enjoys turning ideas into clear, useful, and beautiful products. This is my corner of GitHub: a growing collection of experiments, projects, and lessons from the things I'm learning.
+I am a student who are still learning and having real experiences such as being game designer and architect. I also became a game Tester in our school group project. 
+I as student believing that everything is possible with teamwork and having a cooperation. 
+I am still developing this github portfolio of mine thank you for 
 
 [View my work](#featured-work) · [Let's connect](#connect) · [Explore my toolbox](#toolbox)
 
